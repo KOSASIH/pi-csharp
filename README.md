@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/KOSASIH/pi-csharp/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/pi-csharp/actions/workflows/codeql.yml)
+
 # pi-csharp
 
 Pi Network C# client library for server side applications.
