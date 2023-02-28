@@ -1,4 +1,6 @@
 [![CodeQL](https://github.com/KOSASIH/pi-csharp/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/pi-csharp/actions/workflows/codeql.yml)
+[![.NET](https://github.com/KOSASIH/pi-csharp/actions/workflows/dotnet.yml/badge.svg)](https://github.com/KOSASIH/pi-csharp/actions/workflows/dotnet.yml)
+
 
 # pi-csharp
 
